@@ -1,0 +1,12 @@
+#zone1 {
+  margin: auto;
+  width: 500px;
+  height: 300px;
+  background-color: aqua;
+}
+
+.cadre {
+  padding-top: 100px;
+  display: flex;
+  flex-direction: row;
+}
